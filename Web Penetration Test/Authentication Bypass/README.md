@@ -1,3 +1,10 @@
+## Broken Authentication
+
+- Response manipulation
+- Bruteforce
+- Session Flaw
+- No Rate-limting
+
 ## Authentication Bypass
 
 * Do Intercept to get Response of Request
@@ -25,3 +32,11 @@
     - Change User Id in Response (In Local storage or Burpsuite Response)
 
 - OTP will be get as Response itself sometime.
+
+## Mitigations
+
+- Don't check only in client side, check server side also
+
+- Authentication with strong tokens like (JWT Tokens)
+
+- Encrypt auth data
