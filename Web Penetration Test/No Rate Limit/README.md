@@ -14,3 +14,11 @@
 ## Account Take Over (OTP Bypass) - Bruteforce
 
 - Send the request to Intruder -> Payload Type(Numbers) -> Give Grep match in Options for wrong OTP (Optional) -> Attack -> Copy Right Response -> Paste instead of Wrong OTP Response 
+
+## RACE 
+
+- Use RACE Condition
+
+## Null Byte
+
+- Add Null Byte in Email or OTP
