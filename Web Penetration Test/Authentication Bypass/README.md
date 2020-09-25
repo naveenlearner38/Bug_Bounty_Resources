@@ -25,6 +25,8 @@
 
     - If there is any number like (0 - 9) change that to another number (1 - 9) mostly 1. Then may site break
 
+    - If any method is not working, then enter correct otp and see response. If Response is empty or easy known data. Then copy and check with new number (Paste in new number response (Wrond OTP))
+
 ## Account Take Over
 
 - Account Takeover Based on User Id like ( uid, gid, other params like user_id, user=, etc) 
